@@ -4,7 +4,7 @@
 
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuvula6921&count_bg=%2322BAC9&title_bg=%23827F7F&icon=iconify.svg&icon_color=%2325A27F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuvula6921&count_bg=%2322BAC9&title_bg=%23827F7F&icon=iconify.svg&icon_color=%2325A27F&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 <h3 align="center">📌Stack</h3>
