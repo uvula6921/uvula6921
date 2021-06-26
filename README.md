@@ -17,7 +17,7 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvula6921&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=profile_page,algorithm_prac,uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=camping_map,profile_page,algorithm_prac,uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
