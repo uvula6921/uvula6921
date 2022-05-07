@@ -20,6 +20,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -81,5 +83,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:45:51 UTC
+ Last Updated on 07/05/2022 18:43:57 UTC
 <!--END_SECTION:waka-->
