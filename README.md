@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2016%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -51,19 +51,19 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 13 mins       ██████████████████░░░░░░░   71.7% 
-JavaScript               2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.15% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Vue.js                   4 hrs 48 mins       █████████████░░░░░░░░░░░░   51.85% 
+JavaScript               4 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.15%
 
 🔥 Editors: 
-VS Code                  8 hrs 40 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 16 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-mydata-www-insurance-copy7 hrs 31 mins       █████████████████████░░░░   86.63% 
-finlab-console           1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.37%
+mydata-www-insurance-copy8 hrs 24 mins       ██████████████████████░░░   90.57% 
+finlab-console           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
+planner-webview-copy     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%
 
 💻 Operating System: 
-Mac                      8 hrs 40 mins       █████████████████████████   100.0%
+Mac                      9 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +80,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2023 18:42:19 UTC
+ Last Updated on 12/01/2023 18:40:21 UTC
 <!--END_SECTION:waka-->
