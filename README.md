@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C790%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C794%20hrs%2047%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -59,8 +59,8 @@ JSON                     2 mins              ░░░░░░░░░░░�
 VS Code                  18 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mydata-www-insurance-copy9 hrs 59 mins       ██████████████░░░░░░░░░░░   55.04 % 
-planner-webview-copy     7 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
+mydata-www-insurance-copy9 hrs 59 mins       ██████████████░░░░░░░░░░░   55.03 % 
+planner-webview-copy     7 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
 tennis-court-auto-reserva21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 finlab-console           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
@@ -81,5 +81,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2023 18:41:01 UTC
+ Last Updated on 19/08/2023 18:41:12 UTC
 <!--END_SECTION:waka-->
