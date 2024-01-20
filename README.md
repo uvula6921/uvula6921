@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2030%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -51,7 +51,7 @@ Sunday                   1302 commits        ░░░░░░░░░░░�
 💬 Programming Languages: 
 Vue.js                   7 hrs 11 mins       █████████████░░░░░░░░░░░░   51.04 % 
 JavaScript               5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
-Docker                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Docker                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
@@ -63,7 +63,7 @@ mydata-www-insurance-copy9 hrs 23 mins       ███████████�
 calendar-for-team        3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 signal-console2          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 planner-webview-copy     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-parkkyungjoon            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+parkkyungjoon            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
 Mac                      14 hrs 5 mins       █████████████████████████   100.00 % 
@@ -82,5 +82,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2024 18:43:30 UTC
+ Last Updated on 20/01/2024 18:42:06 UTC
 <!--END_SECTION:waka-->
