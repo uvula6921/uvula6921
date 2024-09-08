@@ -20,8 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%201%20min-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -74,5 +72,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 18:46:07 UTC
+ Last Updated on 08/09/2024 18:49:30 UTC
 <!--END_SECTION:waka-->
