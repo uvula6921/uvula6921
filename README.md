@@ -20,47 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%202%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                75918 commits       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-🌆 Daytime                221244 commits      ████████████████░░░░░░░░░   63.22 % 
-🌃 Evening                48920 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-🌙 Night                  3887 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   39857 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  84687 commits       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Wednesday                77863 commits       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Thursday                 95610 commits       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-Friday                   48686 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Saturday                 2007 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Sunday                   1259 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -74,5 +33,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:11:32 UTC
+ Last Updated on 15/05/2026 19:56:49 UTC
 <!--END_SECTION:waka-->
