@@ -20,24 +20,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C340%20hrs%2054%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-🌆 Daytime                10105 commits       ████████████░░░░░░░░░░░░░   47.37 % 
-🌃 Evening                6119 commits        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-🌙 Night                  2630 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+🌞 Morning                2481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+🌆 Daytime                10117 commits       ████████████░░░░░░░░░░░░░   47.38 % 
+🌃 Evening                6124 commits        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌙 Night                  2632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2673 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Tuesday                  3668 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Wednesday                3781 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Thursday                 5207 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Friday                   3158 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Monday                   2675 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Tuesday                  3671 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Wednesday                3783 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Thursday                 5217 commits        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Friday                   3163 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Saturday                 1590 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 Sunday                   1255 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
@@ -80,5 +78,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:11:00 UTC
+ Last Updated on 07/08/2026 00:27:54 UTC
 <!--END_SECTION:waka-->
